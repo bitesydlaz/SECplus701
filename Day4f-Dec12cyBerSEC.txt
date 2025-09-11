@@ -315,7 +315,7 @@ tcp,udp,icmp,IP     Any      web310/11
 Config t
 service timestamps log datetime
 service timestamps debug datetime
-logging 10.m.1.10
+logging 10.61.1.10
 logging trap 5
 NO IP access-list Extended FWP1
 IP access-list Extended FWP1
@@ -1035,6 +1035,7 @@ https:///restconf/data/Cisco-IOS-XE-native:native/interface/Loopback
 
 HomeWork for the Hardest Day in CCNA: 
 CSr, linuxdocker, pythondocker, Postman: RestApi.
+
 
 
 
